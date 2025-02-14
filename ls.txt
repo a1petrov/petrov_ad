@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x  3 user user 4,0K фев 14 12:57 ./
+drwxr-x--- 18 user user 4,0K фев 14 12:56 ../
+-rw-rw-r--  1 user user  704 фев 14 12:54 config.txt
+-rw-rw-r--  1 user user  170 фев 14 12:28 first.txt
+drwxrwxr-x  8 user user 4,0K фев 14 12:57 .git/
+-rw-rw-r--  1 user user    0 фев 14 12:57 ls.txt
+-rw-rw-r--  1 user user   11 фев 14 12:26 README.md
+-rw-rw-r--  1 user user  199 фев 14 12:28 status.txt
